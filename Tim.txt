@@ -1,0 +1,30 @@
+Nama Tim : es teh
+
+Nim dan nama lengkap seluruh anggota tim:
+221110546-ALVIN . LO
+
+Tema/topik dari aplikasi web yang di buat:
+Situs Penjualan Game
+
+Deskripsi dari aplikasi yang dibuat:
+Lugx Gaming adalah aplikasi web yang menyediakan game untuk dijual kepada pengguna. Aplikasi ini memiliki beberapa halaman utama:
+
+Halaman Utama: Pengguna dapat menemukan game-game terbaru, populer, dan diskon. 
+
+Halaman Penjualan: Daftar lengkap game yang tersedia untuk dijual dan tombol "Beli".
+
+Halaman Ulasan: Pengguna dapat melihat ulasan pengguna lain .
+
+Halaman Contact: Informasi kontak tim dukungan pelanggan.
+
+Halaman Sign-In: pengguna dapat mendaftarkan email mereka.
+
+Aplikasi Lugx Gaming memberikan pengalaman belanja game dengan fitur-fitur yang memudahkan pengguna untuk menemukan, membeli, dan memberikan ulasan game. 
+
+source code:https://templatemo.com/tm-589-lugx-gaming
+
+penjelasan fitur-fitur
+saya menggunakan template dari templatemo.com yang dimana menyediakan html serta efek efek yang sudah ada didalamnya jadi pada aplikasi yang saya buat saya menambahkan pembuatan server dan pembuatan database, menambahakan express js,saya juga membuat file json yang menyimpan berbagai data, saya juga merubah untuk beberapa tampilan html agar kelihatan lebih cocok dengan javascript yang saya buat , saya juga membuat halaman untuk sign-in yang dimana pada awalnya itu tidak ada jadi halaman sign-in ini dapat mengirim data ke database , saya juga menambahkan beberapa file js yang berfungsi untuk menampilkan data dari json dan juga menggandung berbagai fitur yang antara lain fitur filter , fitur untuk mengeser isi data, fitur pagination untuk menampilkan page page yang di inginkan , dan serta saya juga membuat js untuk menampilkan fungsi yang sederhana.
+
+
+

@@ -1,0 +1,978 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Warframe",
+      "description": "Warframe is an award-winning free-to-play cooperative third-person shooter set in an expansive and evolving science fiction universe. In Warframe, you step into the shoes of a Tenno, an ancient warrior who has awakened from centuries of cryosleep to find themselves thrust into a war-torn planetary system known as the Origin System. As a Tenno, you'll wield powerful exosuits known as Warframes, each with unique abilities and combat styles. Explore diverse worlds, take on challenging missions, and engage in fast-paced combat against a range of formidable foes. Customize your Warframe with an array of weapons and gear, and collaborate with other players in thrilling cooperative missions. Warframe offers a deep and engaging storyline, stunning visuals, and a dedicated community, making it a must-play game for fans of sci-fi shooters.",
+      "category": "Adventure",
+      "price": 24,
+      "discountedPrice": 36,
+      "image": "assets/images/trending-01.jpg",
+      "tags": ["Sci-Fi", "Co-op", "Shooter"],
+      "reviews": [
+          {
+              "user": "Player 1",
+              "date": "April 1, 2023",
+              "content": "Warframe is an amazing game. I love the open world and the graphics are stunning. It's a must-play!"
+          },
+          {
+              "user": "GamerGirl",
+              "date": "April 5, 2023",
+              "content": "Warframe has a great community. I've been playing it for years, and I'm still not bored with it."
+          },
+          {
+              "user": "NinjaPlayer",
+              "date": "April 10, 2023",
+              "content": "The fast-paced action in Warframe is what keeps me coming back. It's a free-to-play gem."
+          }
+      ]
+  },
+  {
+      "id": 2,
+      "title": "Tower Of Fantasy",
+      "description": "Tower Of Fantasy is an enchanting open-world action-adventure game that beckons you to embark on an epic journey through a vibrant and mystical realm. As a brave adventurer, you will face formidable adversaries, uncover ancient secrets, and explore the towering spires that dominate the landscape. With its stunning visuals and immersive storytelling, Tower Of Fantasy transports players to a world where magic and mystery are intertwined. Engage in heart-pounding battles, complete captivating quests, and witness the beauty of a dynamic open world. Whether you're an explorer, a combat enthusiast, or a lover of fantasy, this game promises an experience that will captivate your imagination and keep you coming back for more.",
+      "category": "Adventure",
+      "price": 30,
+      "discountedPrice": 45,
+      "image": "assets/images/trending-02.jpg",
+      "tags": ["Fantasy", "Open World", "Exploration"],
+      "reviews": [
+          {
+              "user": "Adventurer123",
+              "date": "April 3, 2023",
+              "content": "Tower Of Fantasy has a beautifully crafted world. The quests are engaging, and the combat is top-notch."
+          },
+          {
+              "user": "FantasyLover",
+              "date": "April 8, 2023",
+              "content": "This game is a fantasy lover's dream come true. The graphics are breathtaking, and the story is immersive."
+          },
+          {
+              "user": "AdventureSeeker",
+              "date": "May 15, 2023",
+              "content": "This game is a thrilling adventure waiting to be explored. The gameplay is exhilarating, and the world is richly detailed."
+          }
+      ]
+  },
+  {
+      "id": 3,
+      "title": "Tomb Raider",
+      "description": "Tomb Raider is a gripping action-adventure game that follows the iconic archaeologist Lara Croft on her daring expeditions. Traverse treacherous landscapes, solve intricate puzzles, and engage in intense combat as you uncover ancient secrets and artifacts. The game offers a captivating narrative that delves into Lara's origins and her transformation into a fearless explorer. With breathtaking visuals and heart-pounding action sequences, Tomb Raider delivers an unforgettable gaming experience for fans of action and adventure.",
+      "category": "Action",
+      "price": 35,
+      "discountedPrice": 40,
+      "image": "assets/images/trending-06.jpg",
+      "tags": ["Adventure", "Exploration", "Puzzle"],
+      "reviews": [
+          {
+              "user": "RaiderFan",
+              "date": "April 5, 2023",
+              "content": "Tomb Raider is a thrilling action-adventure game. I can't get enough of Lara Croft's adventures."
+          },
+          {
+              "user": "TombsExplorer",
+              "date": "April 11, 2023",
+              "content": "The puzzles in Tomb Raider are challenging, and the exploration is rewarding. A classic game."
+          },
+          {
+              "user": "ActionGamer",
+              "date": "April 15, 2023",
+              "content": "The action sequences in Tomb Raider are adrenaline-pumping. It's a must-play for action game fans."
+          }
+      ]
+  },
+  {
+      "id": 4,
+      "title": "Digimon Adventure",
+      "description": "Embark on a digital journey with Digimon Adventure, a thrilling role-playing game that brings the beloved Digimon franchise to life. As a DigiDestined, you'll form bonds with various Digimon creatures and lead them into battles against digital foes. Collect, train, and evolve your Digimon to become a powerful team of heroes. Relive the nostalgia of the animated series as you explore the Digital World and uncover its mysteries. With exciting battles and character-driven storytelling, Digimon Adventure offers an engaging experience for fans of the franchise and newcomers alike.",
+      "category": "Adventure",
+      "price": 40,
+      "discountedPrice": 50,
+      "image": "assets/images/trending-04.jpg",
+      "tags": ["RPG", "Anime", "Collectibles"],
+      "reviews": [
+          {
+              "user": "DigiMaster",
+              "date": "April 3, 2023",
+              "content": "Digimon Adventure takes me back to my childhood. The nostalgia is real, and the gameplay is fun."
+          },
+          {
+              "user": "AdventureFanatic",
+              "date": "April 7, 2023",
+              "content": "I've always been a fan of Digimon, and this game captures the essence of the series perfectly."
+          },
+          {
+              "user": "MonCollector",
+              "date": "April 12, 2023",
+              "content": "Collecting and battling with Digimon is a blast. I can't put this game down."
+          }
+      ]
+  },
+  {
+      "id": 5,
+      "title": "SuperPeople",
+      "description": "SuperPeople is a high-octane action game that immerses players in a world filled with superhuman abilities and intense battles. Choose your path as a hero or villain and customize your character with unique powers and gear. Engage in epic showdowns in dynamic environments and experience the thrill of superpowered combat. Whether you're soaring through the skies, using super strength, or harnessing powerful energy blasts, the game offers an exhilarating experience for fans of superhero action and intense gameplay.",
+      "category": "Action",
+      "price": 10,
+      "discountedPrice": 60,
+      "image": "assets/images/trending-03.jpg",
+      "tags": ["Superheroes", "PvP", "Customization"],
+      "reviews": [
+          {
+              "user": "HeroicGamer",
+              "date": "April 2, 2023",
+              "content": "SuperPeople has superpowers and intense battles. It's a unique take on the superhero genre."
+          },
+          {
+              "user": "VillainCrusher",
+              "date": "April 6, 2023",
+              "content": "Playing as a superhero or villain in SuperPeople is a blast. The character customization is a plus."
+          },
+          {
+              "user": "ActionPacked",
+              "date": "April 13, 2023",
+              "content": "The action in SuperPeople is non-stop. If you love action games, this one's for you."
+          }
+      ]
+  },
+  {
+      "id": 6,
+      "title": "Grand Theft Auto V",
+      "description": "Grand Theft Auto V is an open-world masterpiece that takes players to the sprawling and fictional city of Los Santos. In this sandbox of mayhem and opportunity, you can follow the intertwining lives of three criminals as they plan and execute a series of daring heists. Explore a vibrant and detailed world, engage in various activities, and experience a narrative filled with humor and drama. From high-speed chases to leisurely strolls through the city, GTA V offers players the freedom to create their own adventures and indulge in a virtual playground like no other.",
+      "category": "Action",
+      "price": 40,
+      "discountedPrice": 50,
+      "image": "assets/images/trending-05.jpg",
+      "tags": ["Open World", "Crime", "Sandbox"],
+      "reviews": [
+          {
+              "user": "GTAFanatic",
+              "date": "April 4, 2023",
+              "content": "Grand Theft Auto V is an open-world masterpiece. The story and freedom it offers are unparalleled."
+          },
+          {
+              "user": "CityExplorer",
+              "date": "April 9, 2023",
+              "content": "I can spend hours just exploring Los Santos. GTA V is more than just a game; it's a virtual world."
+          },
+          {
+              "user": "CrimeLord",
+              "date": "April 14, 2023",
+              "content": "Causing mayhem and heists in GTA V is pure fun. It's a sandbox for chaos and creativity."
+          }
+      ]
+  },
+  {
+    "id": 7,
+    "title": "Need For Speed",
+    "category": "Race",
+    "price": 10,
+    "discountedPrice": 40,
+    "image": "assets/images/trending-07.jpg",
+    "description": "Need for Speed is an iconic racing game that has been thrilling players with high-speed action and adrenaline-pumping races for years. Choose from a variety of cars and enjoy the fantastic customization options to create the ultimate racing machine. Feel the thrill of speed and take on the streets with style in this classic racing game.",
+    "tags": ["Racing", "High-Speed", "Customization"],
+    "reviews": [
+      {
+        "user": "SpeedDemon",
+        "date": "April 4, 2023",
+        "content": "Need For Speed is all about speed and adrenaline. The variety of cars and customization options is fantastic."
+      },
+      {
+        "user": "RacingFanatic",
+        "date": "April 10, 2023",
+        "content": "I've been a fan of the Need For Speed series for years. This game continues the tradition of high-speed racing."
+      },
+      {
+        "user": "DriftKing",
+        "date": "April 15, 2023",
+        "content": "Drifting in Need For Speed is pure fun. The game captures the thrill of street racing."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "MotoGP",
+    "category": "Race",
+    "price": 20,
+    "discountedPrice": 50,
+    "image": "assets/images/trending-08.jpg",
+    "description": "MotoGP is a thrilling racing game designed for motorcycle enthusiasts. Immerse yourself in the realistic racing experience with superb graphics and the exhilarating sound of powerful engines. Whether you're a speedster or a two-wheeled fan, MotoGP offers intense and challenging races that will get your heart racing.",
+    "tags": ["Motorcycle Racing", "Realism", "High-Speed"],
+    "reviews": [
+      {
+        "user": "MotoRacer",
+        "date": "April 6, 2023",
+        "content": "MotoGP is a great racing game for motorcycle enthusiasts. The realism and graphics are superb."
+      },
+      {
+        "user": "Speedster",
+        "date": "April 11, 2023",
+        "content": "Racing in MotoGP feels like a true motorsport experience. The sound of the engines is exhilarating."
+      },
+      {
+        "user": "TwoWheelsFan",
+        "date": "April 14, 2023",
+        "content": "If you love two-wheeled racing, MotoGP is the game to play. It's intense and challenging."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "F1 2020",
+    "category": "Race",
+    "price": 15,
+    "discountedPrice": 30,
+    "image": "assets/images/trending-09.jpg",
+    "description": "F1 2020 offers an authentic Formula 1 racing experience with impressive realism and attention to detail. Feel the thrill of racing in Formula 1 and explore the world of motorsport. Manage your team and take on strategic challenges that go beyond just racing. F1 2020 is more than a game; it's a strategic racing adventure.",
+    "tags": ["Formula 1", "Racing", "Team Management"],
+    "reviews": [
+      {
+        "user": "FormulaFan",
+        "date": "April 5, 2023",
+        "content": "F1 2020 offers an authentic Formula 1 experience. The realism and attention to detail are impressive."
+      },
+      {
+        "user": "SpeedFreak",
+        "date": "April 9, 2023",
+        "content": "Racing in F1 2020 is a thrill. The graphics make you feel like you're on a real F1 track."
+      },
+      {
+        "user": "PitStopPro",
+        "date": "April 13, 2023",
+        "content": "Managing your team in F1 2020 adds depth to the game. It's more than just racing; it's a strategic challenge."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Brawlhalla",
+    "category": "Action",
+    "price": 40,
+    "discountedPrice": 50,
+    "image": "assets/images/trending-10.jpg",
+    "description": "Brawlhalla is the ultimate party game that brings together a diverse cast of characters and game modes to keep the fun fresh. If you're a fan of Super Smash Bros., Brawlhalla is a must-try. It's easy to pick up and play with friends, and its thriving competitive scene offers endless brawling action.",
+    "tags": ["Brawler", "Party Game", "Multiplayer"],
+    "reviews": [
+      {
+        "user": "BrawlChamp",
+        "date": "April 7, 2023",
+        "content": "Brawlhalla is the ultimate party game. The variety of characters and game modes keeps it fresh and fun."
+      },
+      {
+        "user": "SmashMaster",
+        "date": "April 12, 2023",
+        "content": "If you love Super Smash Bros., Brawlhalla is a must-try. It's easy to pick up and play with friends."
+      },
+      {
+        "user": "BrawlFanatic",
+        "date": "April 16, 2023",
+        "content": "I've spent countless hours brawling in this game. The competitive scene is also thriving."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Spiderman",
+    "category": "Action",
+    "price": 45,
+    "discountedPrice": 55,
+    "image": "assets/images/trending-11.jpg",
+    "description": "Swing through the iconic New York City as Spider-Man and experience the dream of web-slinging action. The game offers a fantastic blend of storytelling and exhilarating gameplay. Marvel fans will find it to be one of the best superhero games, delivering an extraordinary web-slinging adventure.",
+    "tags": ["Superhero", "Open World", "Marvel"],
+    "reviews": [
+      {
+        "user": "WebSlinger",
+        "date": "April 8, 2023",
+        "content": "Swinging through New York as Spider-Man is a dream come true. The story and gameplay are fantastic."
+      },
+      {
+        "user": "MarvelFan",
+        "date": "April 13, 2023",
+        "content": "As a Marvel fan, playing Spider-Man is a delight. It's one of the best superhero games out there."
+      },
+      {
+        "user": "SpideyFan",
+        "date": "April 17, 2023",
+        "content": "I can't get enough of the web-swinging action. Spider-Man is a PS5 must-have."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Forza Horizon 5",
+    "category": "Race",
+    "price": 50,
+    "discountedPrice": 60,
+    "image": "assets/images/trending-12.jpg",
+    "description": "Forza Horizon 5 sets a new standard for racing games with its stunning open world and exhilarating races. Collect and customize cars in this petrolhead's paradise. Explore the Horizon Festival and celebrate the joy of racing. Forza Horizon 5 is not just a game; it's a racing celebration.",
+    "tags": ["Open World Racing", "Car Customization", "Racing Celebration"],
+    "reviews": [
+      {
+        "user": "RacingFanatic",
+        "date": "April 10, 2023",
+        "content": "Forza Horizon 5 sets a new standard for racing games. The open world is stunning, and the races are exhilarating."
+      },
+      {
+        "user": "CarEnthusiast",
+        "date": "April 15, 2023",
+        "content": "Collecting and customizing cars in Forza Horizon 5 is a hobby in itself. It's a petrolhead's paradise."
+      },
+      {
+        "user": "HorizonExplorer",
+        "date": "April 19, 2023",
+        "content": "Exploring the Horizon Festival is a joy. Forza Horizon 5 is not just a game; it's a racing celebration."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Red Dead Redemption 2",
+    "category": "Action",
+    "price": 50,
+    "discountedPrice": 60,
+    "image": "assets/images/trending-13.jpg",
+    "description": "Red Dead Redemption 2 immerses you in the Wild West like no other game. The attention to detail is staggering as you live the life of an outlaw in the late 1800s. The story, characters, and world of RDR2 are unforgettable. It's a journey you won't want to end.",
+    "tags": ["Wild West", "Outlaw Adventure", "Immersive Storytelling"],
+    "reviews": [
+      {
+        "user": "WildWestGamer",
+        "date": "April 11, 2023",
+        "content": "Red Dead Redemption 2 transports you to the Wild West like no other game. The attention to detail is staggering."
+      },
+      {
+        "user": "OutlawExplorer",
+        "date": "April 16, 2023",
+        "content": "Living the life of an outlaw in the late 1800s is a unique experience. RDR2 is a masterpiece."
+      },
+      {
+        "user": "WesternFan",
+        "date": "April 20, 2023",
+        "content": "The story, the characters, and the world of RDR2 are unforgettable. It's a journey you won't want to end."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Cyberpunk 2077",
+    "category": "Action",
+    "price": 45,
+    "discountedPrice": 55,
+    "image": "assets/images/trending-14.jpg",
+    "description": "Step into the futuristic world of Cyberpunk 2077, where engaging storytelling and a vibrant Night City await you. This action-packed adventure is filled with high-tech wonders and hidden secrets, offering a thrilling and immersive experience. Explore the bustling streets of Night City and uncover the mysteries of a world on the edge of chaos.",
+    "tags": ["Futuristic", "Open World", "High-Tech"],
+    "reviews": [
+      {
+        "user": "CyberPunked",
+        "date": "April 12, 2023",
+        "content": "Cyberpunk 2077 is a futuristic adventure with an engaging story. Night City feels alive and full of secrets."
+      },
+      {
+        "user": "TechGuru",
+        "date": "April 17, 2023",
+        "content": "Exploring the high-tech world of Cyberpunk is a thrilling experience."
+      },
+      {
+        "user": "PIXXIE",
+        "date": "April 12, 2023",
+        "content": "The Game Visual of Cyberpunk is amazing and a fun experience visually."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Minecraft",
+    "category": "Adventure",
+    "price": 25,
+    "discountedPrice": 30,
+    "image": "assets/images/trending-15.jpg",
+    "description": "Minecraft is the ultimate sandbox adventure that lets you unleash your creativity. Dive into a world where the possibilities are endless, and you can build, explore, and survive. It's a timeless classic that offers a unique and ever-expanding experience that keeps players coming back for more.",
+    "tags": ["Sandbox", "Creativity", "Endless Possibilities"],
+    "reviews": [
+      {
+        "user": "BlockMaster",
+        "date": "April 15, 2023",
+        "content": "Minecraft is the ultimate creativity outlet. The possibilities are endless!"
+      },
+      {
+        "user": "AdventureSeeker",
+        "date": "April 18, 2023",
+        "content": "I've spent countless hours in Minecraft, and I'm still discovering new things. It's a timeless classic."
+      },
+      {
+        "user": "CraftingFanatic",
+        "date": "April 20, 2023",
+        "content": "The crafting system in Minecraft is what sets it apart. Building and exploring never gets old!"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "The Witcher 3: Wild Hunt",
+    "category": "Adventure",
+    "price": 45,
+    "discountedPrice": 55,
+    "image": "assets/images/trending-16.jpg",
+    "description": "Embark on an epic adventure in The Witcher 3: Wild Hunt, a masterpiece of storytelling and gameplay. Explore a fantasy world filled with rich characters and intricate quests, where every choice you make has consequences. The Witcher 3 sets a new standard for RPGs with its immersive narrative and dynamic gameplay.",
+    "tags": ["Fantasy", "Role-Playing", "Epic Adventure"],
+    "reviews": [
+      {
+        "user": "WitcherFan",
+        "date": "April 22, 2023",
+        "content": "The Witcher 3 is a masterpiece. The story, characters, and gameplay are top-notch."
+      },
+      {
+        "user": "RPGGamer",
+        "date": "April 25, 2023",
+        "content": "I've played a lot of RPGs, but The Witcher 3 has set a new standard. It's simply amazing."
+      },
+      {
+        "user": "FantasyAddict",
+        "date": "April 28, 2023",
+        "content": "The fantasy world of The Witcher 3 feels alive. It's like being in a detailed, interactive novel."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Mario Kart 8 Deluxe",
+    "category": "Race",
+    "price": 35,
+    "discountedPrice": 45,
+    "image": "assets/images/trending-17.jpg",
+    "description": "Mario Kart 8 Deluxe is the quintessential party racing game that brings joy to players of all ages. Race with beloved Nintendo characters on colorful tracks and unleash your power-ups to secure victory. It's easy to pick up and play, making it a classic party game that guarantees fun and laughter with friends and family.",
+    "tags": ["Kart Racing", "Multiplayer", "Nintendo Characters"],
+    "reviews": [
+      {
+        "user": "MarioFan",
+        "date": "May 1, 2023",
+        "content": "Mario Kart 8 Deluxe is a blast to play with friends. It's easy to pick up and incredibly fun."
+      },
+      {
+        "user": "SpeedDemon",
+        "date": "May 5, 2023",
+        "content": "The racing mechanics in Mario Kart 8 Deluxe are smooth, and the tracks are well-designed. It's a classic party game!"
+      },
+      {
+        "user": "KartMaster",
+        "date": "May 10, 2023",
+        "content": "Mario Kart 8 Deluxe is the perfect balance of challenge and entertainment. It's suitable for all skill levels."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Assassin's Creed",
+    "category": "Action",
+    "price": 45,
+    "discountedPrice": 55,
+    "image": "assets/images/trending-18.jpg",
+    "description": "Assassin's Creed offers a thrilling stealth experience set against a rich historical backdrop. Immerse yourself in the blend of history and fiction as you explore ancient cities and engage in parkour-like acrobatics. It's a must-play for fans of action-adventure games seeking both exhilaration and historical intrigue.",
+    "tags": ["Stealth", "Historical", "Parkour"],
+    "reviews": [
+      {
+        "user": "StealthGamer",
+        "date": "May 15, 2023",
+        "content": "Assassin's Creed offers a thrilling stealth experience with a rich historical backdrop. It's a must-play for any action-adventure fan."
+      },
+      {
+        "user": "HistoryBuff",
+        "date": "May 18, 2023",
+        "content": "I love how Assassin's Creed seamlessly weaves history and fiction. Exploring ancient cities has never been this exciting!"
+      },
+      {
+        "user": "ParkourPro",
+        "date": "May 20, 2023",
+        "content": "The parkour mechanics in Assassin's Creed are fluid and satisfying. It's exhilarating to navigate the game's detailed environments."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Far Cry 6",
+    "category": "Action",
+    "price": 50,
+    "discountedPrice": 60,
+    "image": "assets/images/trending-19.jpg",
+    "description": "In Far Cry 6, you'll experience an intense open-world adventure filled with a gripping story and compelling characters. The game's explosive action keeps you engaged, offering a rollercoaster of adrenaline-fueled strategy and freedom. It's a sandbox of chaos and creativity where you shape the outcome.",
+    "tags": ["Open World", "Action-Packed", "Sandbox"],
+    "reviews": [
+      {
+        "user": "RebelFighter",
+        "date": "May 22, 2023",
+        "content": "Far Cry 6 delivers an intense open-world experience. The story and characters are compelling, making it hard to put the game down."
+      },
+      {
+        "user": "ActionFanatic",
+        "date": "May 25, 2023",
+        "content": "The action in Far Cry 6 is explosive and engaging. It's a rollercoaster ride of adrenaline and strategy."
+      },
+      {
+        "user": "FreedomSeeker",
+        "date": "May 28, 2023",
+        "content": "The freedom to approach missions in Far Cry 6 is liberating. It's a sandbox of chaos and creativity."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Dirt Rally 2.0",
+    "category": "Race",
+    "price": 40,
+    "discountedPrice": 50,
+    "image": "assets/images/trending-20.jpg",
+    "description": "Dirt Rally 2.0 provides a realistic and challenging rally racing experience that will put your skills to the test. With commendable attention to detail, the game features demanding tracks that reward skill and focus. Navigating the treacherous terrain in Dirt Rally 2.0 is an exhilarating experience, making it a must-have for rally fans.",
+    "tags": ["Rally Racing", "Realism", "Challenging Tracks"],
+    "reviews": [
+      {
+        "user": "RallyRacer",
+        "date": "June 1, 2023",
+        "content": "Dirt Rally 2.0 provides a realistic and challenging rally experience. The attention to detail is commendable."
+      },
+      {
+        "user": "SpeedFreak",
+        "date": "June 5, 2023",
+        "content": "The tracks in Dirt Rally 2.0 are demanding and rewarding. It's a satisfying racing simulation that requires skill and focus."
+      },
+      {
+        "user": "MudMaster",
+        "date": "June 10, 2023",
+        "content": "Navigating the treacherous terrain in Dirt Rally 2.0 is an exhilarating experience. It's a must-have for rally fans."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Halo Infinite",
+    "category": "Action",
+    "price": 45,
+    "discountedPrice": 55,
+    "image": "assets/images/trending-21.jpg",
+    "description": "Halo Infinite marks the return of the iconic Master Chief in an epic sci-fi shooter adventure. The game combines the classic essence of the series with new elements, promising an exciting next chapter. Engage in intense battles, whether in the captivating campaign or thrilling multiplayer mode.",
+    "tags": ["Sci-Fi", "Master Chief", "Epic Battles"],
+    "reviews": [
+      {
+        "user": "HaloFan",
+        "date": "June 15, 2023",
+        "content": "Halo Infinite brings back the essence of the classic series while introducing new elements. It's a promising start for the next chapter."
+      },
+      {
+        "user": "MasterChief",
+        "date": "June 18, 2023",
+        "content": "The Master Chief's return in Halo Infinite is epic. The multiplayer and campaign are both engaging and exciting."
+      },
+      {
+        "user": "Spartan123",
+        "date": "June 20, 2023",
+        "content": "The battles in Halo Infinite are intense and unforgettable. It's a must-play for all sci-fi shooter fans."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Elden Ring",
+    "category": "Action",
+    "price": 50,
+    "discountedPrice": 60,
+    "image": "assets/images/trending-22.jpg",
+    "description": "Elden Ring is a challenging masterpiece that blends the best of the Souls series with a rich open world. Immerse yourself in a fantastical realm, explore its breathtaking landscapes, and engage in epic battles. FromSoftware has created a game that's a true test of skill and a journey through compelling lore.",
+    "tags": ["Challenging", "Open World", "Fantasy"],
+    "reviews": [
+      {
+        "user": "SoulsborneFan",
+        "date": "June 22, 2023",
+        "content": "Elden Ring combines the best of the Souls series with a rich open world. It's a challenging masterpiece."
+      },
+      {
+        "user": "FantasyGamer",
+        "date": "June 25, 2023",
+        "content": "The world-building in Elden Ring is phenomenal. FromSoftware has outdone themselves."
+      },
+      {
+        "user": "RingBearer",
+        "date": "June 28, 2023",
+        "content": "Elden Ring's lore and mythology are captivating. The boss battles are a true test of skill."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Call of Duty: Warzone",
+    "category": "Action",
+    "price": 40,
+    "discountedPrice": 50,
+    "image": "assets/images/trending-23.jpg",
+    "description": "Call of Duty: Warzone is the ultimate battle royale experience that offers non-stop action and smooth gunplay. Dive into the fast-paced world of war, strategy, and competition. Team up with friends and rivals to achieve victory and dominance in a dynamic battlefield.",
+    "tags": ["Battle Royale", "Fast-Paced", "Team Strategy"],
+    "reviews": [
+      {
+        "user": "FPSPro",
+        "date": "July 1, 2023",
+        "content": "Call of Duty: Warzone is the ultimate battle royale experience. The gunplay is smooth, and the action is non-stop."
+      },
+      {
+        "user": "Warrior1987",
+        "date": "July 5, 2023",
+        "content": "I've been a long-time Call of Duty fan, and Warzone is a great addition. It's fast-paced and competitive."
+      },
+      {
+        "user": "TacticalGamer",
+        "date": "July 10, 2023",
+        "content": "The strategy and teamwork in Call of Duty: Warzone make it one of the best battle royales out there."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Rainbow Six Siege",
+    "category": "Action",
+    "price": 35,
+    "discountedPrice": 45,
+    "image": "assets/images/trending-24.jpg",
+    "description": "Rainbow Six Siege offers a unique and tactical multiplayer experience that emphasizes strategy and communication. As an operator, you'll use gadgets and teamwork to secure victory in intense, close-quarters battles. With regular updates and new operators, the game stays dynamic and engaging.",
+    "tags": ["Tactical", "Multiplayer", "Operators"],
+    "reviews": [
+      {
+        "user": "SiegeMaster",
+        "date": "July 15, 2023",
+        "content": "Rainbow Six Siege offers a unique and tactical multiplayer experience. It's all about strategy and communication."
+      },
+      {
+        "user": "TacticalOperator",
+        "date": "July 18, 2023",
+        "content": "I love the operators and gadgets in Rainbow Six Siege. It keeps the gameplay fresh and dynamic."
+      },
+      {
+        "user": "Strategist123",
+        "date": "July 20, 2023",
+        "content": "Coordinating with your team in Rainbow Six Siege is a thrilling challenge. It's a game of wits and reflexes."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Fortnite",
+    "category": "Action",
+    "price": 30,
+    "discountedPrice": 40,
+    "image": "assets/images/trending-25.jpg",
+    "description": "Fortnite's battle royale mode is a pure blast, offering a unique twist with its building mechanic. Collect cool skins, outmaneuver opponents, and aim for that elusive Victory Royale. The game constantly receives updates to keep the action exciting and fresh.",
+    "tags": ["Battle Royale", "Building", "Skins"],
+    "reviews": [
+      {
+        "user": "BattleRoyaleFan",
+        "date": "July 22, 2023",
+        "content": "Fortnite's battle royale mode is pure fun. The building mechanic adds a unique twist to the genre."
+      },
+      {
+        "user": "SkinCollector",
+        "date": "July 25, 2023",
+        "content": "I can't resist collecting all the cool skins in Fortnite. It's a game that embraces creativity and competitiveness."
+      },
+      {
+        "user": "VictoryRoyaleMaster",
+        "date": "July 28, 2023",
+        "content": "Achieving a Victory Royale in Fortnite is a rush like no other. The constant updates keep things exciting."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Apex Legends",
+    "category": "Action",
+    "price": 35,
+    "discountedPrice": 45,
+    "image": "assets/images/trending-26.jpg",
+    "description": "Apex Legends features some of the most unique legends and abilities in the battle royale genre. Team up with friends and strategize your way to victory in this fast-paced game. Satisfying gunplay and seasonal content keep players engaged and coming back for more.",
+    "tags": ["Battle Royale", "Legends", "Team Strategy"],
+    "reviews": [
+      {
+        "user": "LegendHunter",
+        "date": "August 1, 2023",
+        "content": "Apex Legends has some of the most unique legends and abilities. Teaming up and strategizing is key."
+      },
+      {
+        "user": "Champion1989",
+        "date": "August 5, 2023",
+        "content": "The gunplay in Apex Legends is satisfying, and the seasonal content keeps me coming back for more."
+      },
+      {
+        "user": "SquadLeader",
+        "date": "August 10, 2023",
+        "content": "Leading a squad to victory in Apex Legends is a fantastic feeling. It's a top-tier battle royale."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Valorant",
+    "category": "Action",
+    "price": 30,
+    "discountedPrice": 40,
+    "image": "assets/images/trending-27.jpg",
+    "description": "Valorant is a tactical shooter that emphasizes precision and teamwork. Dive into a competitive world where strategy and precise gunplay are crucial. Agent abilities add a unique twist to the tactical shooter genre, creating an engaging and strategic gaming experience.",
+    "tags": ["Tactical Shooter", "Competitive", "Agent Abilities"],
+    "reviews": [
+      {
+        "user": "TacticalShooter",
+        "date": "August 15, 2023",
+        "content": "Valorant is all about precision and teamwork. It's a thinking person's shooter with a competitive edge."
+      },
+      {
+        "user": "AimMaster",
+        "date": "August 18, 2023",
+        "content": "The gunplay mechanics in Valorant are solid. It rewards skill and strategy."
+      },
+      {
+        "user": "Agent123",
+        "date": "August 20, 2023",
+        "content": "Agent abilities in Valorant add a unique twist to the tactical shooter genre. It's a refreshing take on the genre."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "League of Legends",
+    "category": "Action",
+    "price": 30,
+    "discountedPrice": 80,
+    "image": "assets/images/trending-28.jpg",
+    "description": "League of Legends is one of the most popular MOBAs, known for its competitive scene and variety of champions. The game offers strategic depth that rewards skill and teamwork. Whether you're a newbie or a pro, the addictive gameplay and helpful community make it a standout choice.",
+    "tags": ["MOBA", "Competitive", "Champions"],
+    "reviews": [
+      {
+        "user": "ProGamer",
+        "date": "April 15, 2023",
+        "content": "League of Legends is one of the best MOBAs out there. The competitive scene is amazing, and I love the variety of champions."
+      },
+      {
+        "user": "StrategyMaster",
+        "date": "April 20, 2023",
+        "content": "The strategic depth of League of Legends keeps me engaged. It's a game that rewards skill and teamwork."
+      },
+      {
+        "user": "NewbieGamer",
+        "date": "April 25, 2023",
+        "content": "I'm new to League of Legends, and I'm having a blast learning the ropes. The community is helpful, and the game is addictive."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Genshin Impact",
+    "category": "Adventure",
+    "price": 40,
+    "discountedPrice": 60,
+    "image": "assets/images/trending-29.jpg",
+    "description": "Genshin Impact takes you to the breathtaking world of Teyvat, offering an open-world RPG experience. While the gacha system can be challenging, the game's beauty and elemental combat system make it a must-try. Explore the diverse landscapes and engage in epic adventures with a variety of characters.",
+    "tags": ["Open World RPG", "Elemental Combat", "Exploration"],
+    "reviews": [
+      {
+        "user": "FantasyExplorer",
+        "date": "April 2, 2023",
+        "content": "Genshin Impact's world is breathtaking. The gacha system can be frustrating, but the game's beauty makes up for it."
+      },
+      {
+        "user": "AdventureSeeker",
+        "date": "April 6, 2023",
+        "content": "I love exploring Teyvat in Genshin Impact. The elemental combat system adds depth to the gameplay."
+      },
+      {
+        "user": "RPGFanatic",
+        "date": "April 11, 2023",
+        "content": "If you're a fan of open-world RPGs, Genshin Impact is a must-try. The character variety is impressive."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "The Elder Scrolls V",
+    "category": "Adventure",
+    "price": 50,
+    "discountedPrice": 70,
+    "image": "assets/images/trending-30.jpg",
+    "description": "The Elder Scrolls V: Skyrim is a legendary open-world RPG known for its vast world and modding community. Embark on epic adventures, uncover hidden secrets, and immerse yourself in a rich lore. Skyrim remains a masterpiece in the RPG genre that never gets old.",
+    "tags": ["Open World", "Epic Adventures", "Modding"],
+    "reviews": [
+      {
+        "user": "Dragonborn",
+        "date": "April 4, 2023",
+        "content": "The Elder Scrolls V is a legendary RPG. The vast open world and modding community keep it alive and well."
+      },
+      {
+        "user": "FantasyGamer",
+        "date": "April 9, 2023",
+        "content": "I've spent countless hours exploring Skyrim. The lore and quests in The Elder Scrolls V are unmatched."
+      },
+      {
+        "user": "EpicAdventures",
+        "date": "April 13, 2023",
+        "content": "Skyrim never gets old. The Elder Scrolls V is a masterpiece in the RPG genre."
+      }
+    ]
+  }
+  ,
+  {
+    "id": 31,
+    "title": "Drifting",
+    "category": "Race",
+    "price": 30,
+    "discountedPrice": 50,
+    "image": "assets/images/trending-31.jpg",
+    "description": "Drifting offers an intense drift racing experience with realistic car physics that racing enthusiasts will appreciate. Master the art of drifting on thrilling tracks and maneuver your way to victory. Get ready for pure adrenaline and precise driving in this fast-paced racing game.",
+    "tags": ["Drift Racing", "Car Physics", "Adrenaline"],
+    "reviews": [
+      {
+        "user": "SpeedDemon",
+        "date": "April 16, 2023",
+        "content": "Drifting offers some intense drift racing action. The realistic car physics make it a great choice for racing enthusiasts."
+      },
+      {
+        "user": "RaceFanatic",
+        "date": "April 21, 2023",
+        "content": "I've always loved drift racing, and Drifting doesn't disappoint. The tracks and cars are a lot of fun."
+      },
+      {
+        "user": "AdrenalineJunkie",
+        "date": "April 26, 2023",
+        "content": "Drifting is pure adrenaline. It's challenging but rewarding, especially if you're into precise driving."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Battlefield 2042",
+    "category": "Action",
+    "price": 45,
+    "discountedPrice": 70,
+    "image": "assets/images/trending-32.jpg",
+    "description": "Battlefield 2042 delivers epic battles and dynamic maps that are a great addition to the franchise. Engage in large-scale warfare, and experience intense gunplay with a variety of classes. This game captures the classic Battlefield feeling while introducing new elements to keep the action exciting.",
+    "tags": ["Large-Scale Warfare", "Dynamic Maps", "Variety of Classes"],
+    "reviews": [
+      {
+        "user": "Warrior4Life",
+        "date": "April 3, 2023",
+        "content": "Battlefield 2042 offers epic battles and dynamic maps. It's a great addition to the franchise."
+      },
+      {
+        "user": "CombatVeteran",
+        "date": "April 7, 2023",
+        "content": "I've played every Battlefield game, and this one brings back the classic feeling. The scale of the battles is impressive."
+      },
+      {
+        "user": "ShooterPro",
+        "date": "April 12, 2023",
+        "content": "I can't get enough of Battlefield 2042. The gunplay is fantastic, and the variety of classes keeps things interesting."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "The Legend of Zelda",
+    "category": "Adventure",
+    "price": 40,
+    "discountedPrice": 60,
+    "image": "assets/images/trending-33.jpg",
+    "description": "The Legend of Zelda series is known for its timeless adventures. Each game in the series offers a unique and captivating journey filled with puzzles, exploration, and heroism. From classic titles to modern masterpieces like Breath of the Wild, Zelda games continue to enchant players with their magic.",
+    "tags": ["Adventure", "Puzzles", "Exploration"],
+    "reviews": [
+      {
+        "user": "ZeldaFan123",
+        "date": "April 17, 2023",
+        "content": "The Legend of Zelda series is timeless. Each game is a unique adventure, and I've loved them all."
+      },
+      {
+        "user": "HeroOfHyrule",
+        "date": "April 22, 2023",
+        "content": "Breath of the Wild was a masterpiece, and I can't wait for the next Zelda game. The puzzles and exploration are top-notch."
+      },
+      {
+        "user": "AdventureAwaits",
+        "date": "April 27, 2023",
+        "content": "Zelda games have a special place in my heart. They capture the essence of adventure and heroism."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Honkai Star Rail",
+    "category": "Adventure",
+    "price": 45,
+    "discountedPrice": 65,
+    "image": "assets/images/trending-34.jpg",
+    "description": "Honkai Star Rail combines stunning anime visuals with a captivating story, making it a must-play for anime fans. Dive into a fast-paced gacha game with an engaging combat system. Immerse yourself in a world that seamlessly blends action and narrative storytelling.",
+    "tags": ["Anime", "Gacha Game", "Storytelling"],
+    "reviews": [
+      {
+        "user": "AnimeGamerX",
+        "date": "April 5, 2023",
+        "content": "Honkai Star Rail has stunning anime visuals and a captivating story. It's a must-play for anime fans."
+      },
+      {
+        "user": "RPGEnthusiast",
+        "date": "April 10, 2023",
+        "content": "I've played many gacha games, but this one stands out. Honkai Star Rail's combat system is fast-paced and fun."
+      },
+      {
+        "user": "Storyteller",
+        "date": "April 15, 2023",
+        "content": "The storytelling in Honkai Star Rail is on par with top-tier anime. It's a great blend of action and narrative."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Reverse-1999",
+    "category": "Action",
+    "price": 50,
+    "discountedPrice": 80,
+    "image": "assets/images/trending-35.jpg",
+    "description": "Reverse-1999 is a nostalgia trip to the '90s, capturing the essence of classic games while adding a modern twist. Dive into challenging gameplay with pixel art graphics that pay homage to the past. If you're a fan of retro games, this one is a love letter to the golden era of gaming.",
+    "tags": ["Retro", "Pixel Art", "'90s Gaming"],
+    "reviews": [
+      {
+        "user": "RetroGamerX",
+        "date": "April 4, 2023",
+        "content": "Reverse-1999 is a nostalgia trip to the '90s. It captures the essence of classic games while adding a modern twist."
+      },
+      {
+        "user": "OldSchoolPlayer",
+        "date": "April 8, 2023",
+        "content": "I grew up with '90s gaming, and Reverse-1999 hits all the right notes. The pixel art and gameplay are spot on."
+      },
+      {
+        "user": "PixelWarrior",
+        "date": "April 13, 2023",
+        "content": "If you're a fan of retro games, Reverse-1999 is a love letter to the past. It's challenging and a blast to play."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Horizon Zero Dawn",
+    "category": "Adventure",
+    "price": 40,
+    "discountedPrice": 70,
+    "image": "assets/images/trending-36.jpg",
+    "description": "Horizon Zero Dawn is a masterpiece of storytelling and open-world design. Join Aloy on an unforgettable journey in a world dominated by robotic creatures. Explore a breathtaking open world filled with lore, and experience action RPG gameplay at its finest.",
+    "tags": ["Open World", "Storytelling", "Robotic Creatures"],
+    "reviews": [
+      {
+        "user": "AloyFan",
+        "date": "April 6, 2023",
+        "content": "Horizon Zero Dawn is a masterpiece of storytelling and open-world design. Aloy's journey is unforgettable."
+      },
+      {
+        "user": "OpenWorldExplorer",
+        "date": "April 11, 2023",
+        "content": "Exploring the world of Horizon Zero Dawn is a delight. The robotic creatures and lore make it a standout game."
+      },
+      {
+        "user": "GamerNomad",
+        "date": "April 16, 2023",
+        "content": "I can't get enough of Horizon Zero Dawn. It's a must-play for anyone who loves action RPGs and a strong female protagonist."
+      }
+    ]
+  }  
+  ]
+}
+  
